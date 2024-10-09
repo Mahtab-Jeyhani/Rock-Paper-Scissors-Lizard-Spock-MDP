@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-Lizard-Spock Game
 
 ## Overview
-This is a simple implementation of the Rock-Paper-Scissors-Lizard-Spock game using Python. The game allows a player to compete against a computer opponent that learns from the player's actions using a Q-learning algorithm.
+This is a simple implementation of the Rock-Paper-Scissors-Lizard-Spock game using Python, featuring a Markov Decision Process (MDP) that enables the computer to learn from the player's actions through a Q-learning algorithm.
 
 ## Game Manual
 Here’s a quick overview of how the game works:
